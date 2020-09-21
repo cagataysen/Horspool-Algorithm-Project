@@ -1,6 +1,6 @@
 # Horspool-Algorithm-Project
 
-In this project constructed a system that fills the blanks in a given statement using the input text.
+In this project constructs a system that fills the blanks in a given statement using the input text.
 	
   
  Preferred to use Horspool algorithm in this project. Horspool is an algorithm for finding substrings into strings. This algorithm compares each characters of substring to find a word or the same characters into the string. When characters do not match, the search jumps to the next matching position in the pattern by the value indicated in the Shift Table. 
